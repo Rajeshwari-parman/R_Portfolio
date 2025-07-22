@@ -46,7 +46,7 @@ const About = () => {
 
               <div className="pt-4">
                 <button className="px-8 py-3 bg-gradient-to-r from-blue-600 to-cyan-600 text-white font-semibold rounded-full hover:shadow-lg transition-all duration-300 hover:scale-105">
-                  Download CV
+                  Resume
                 </button>
               </div>
             </div>
