@@ -8,7 +8,7 @@ const Education = () => {
       institution: 'NIE Institute Of Technology',
       location: 'Mysuru',
       period: '2021 - 2025',
-      cgpa: '8.2/10',
+      gpa: '3.2/4',
       description: 'Focused on software engineering, algorithms, and web development.',
       coursework: ['Data Structures', 'Algorithms', 'Software Engineering', 'Database Systems', 'Web Development'],
       achievements: ['Hackathon Participant - HACKERRUPT ’22', 'GeeksforGeeks Coding Challenge', 'Instagram Page Management - Codesmiths']
