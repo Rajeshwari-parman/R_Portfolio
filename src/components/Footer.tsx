@@ -7,7 +7,7 @@ const Footer = () => {
   const socialLinks = [
     { icon: Github, href: 'https://github.com/Rajeshwari-parman', label: 'GitHub' },
     { icon: Linkedin, href: 'https://www.linkedin.com/in/rajeshwari-paraman/', label: 'LinkedIn' },
-    { icon: Mail, href: 'mailto:rajeshwari.pb.308@gmail.com', label: 'Email' }
+    { icon: Mail, href: 'rajeshwari.pb.308@gmail.com', label: 'Email' }
   ];
 
   const quickLinks = [
