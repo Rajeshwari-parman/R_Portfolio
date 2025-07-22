@@ -4,11 +4,11 @@ import { GraduationCap, Award, Calendar, MapPin } from 'lucide-react';
 const Education = () => {
   const education = [
     {
-      degree: 'Bachelor of Science in Information Science',
+      degree: 'Bachelor of Engineering in Information Science',
       institution: 'NIE Institute Of Technology',
       location: 'Mysuru',
       period: '2021 - 2025',
-      gpa: '8.2/10',
+      cgpa: '8.2/10',
       description: 'Focused on software engineering, algorithms, and web development.',
       coursework: ['Data Structures', 'Algorithms', 'Software Engineering', 'Database Systems', 'Web Development'],
       achievements: ['Hackathon Participant - HACKERRUPT ’22', 'GeeksforGeeks Coding Challenge', 'Instagram Page Management - Codesmiths']
