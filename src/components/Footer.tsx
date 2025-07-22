@@ -5,8 +5,8 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: Github, href: '#', label: 'GitHub' },
-    { icon: Linkedin, href: '#', label: 'LinkedIn' },
+    { icon: Github, href: 'https://github.com/Rajeshwari-parman', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/rajeshwari-paraman/', label: 'LinkedIn' },
     { icon: Mail, href: 'mailto:rajeshwari@example.com', label: 'Email' }
   ];
 
@@ -81,9 +81,8 @@ const Footer = () => {
             <div>
               <h3 className="text-lg font-semibold mb-4 text-white">Get In Touch</h3>
               <div className="space-y-2 text-gray-400">
-                <p>Mysuru,KA</p>
-                <p>Rajeshwari.pb.308gmail.com</p>
-                <p>+91 7338548091</p>
+                <p>Mysuru, KA</p>
+                <p>rajeshwari.pb.308gmail.com</p>
               </div>
               <div className="mt-4">
                 <button
@@ -101,11 +100,11 @@ const Footer = () => {
             <div className="flex items-center text-gray-400 mb-4 md:mb-0">
               <span>Made with</span>
               <Heart size={16} className="mx-2 text-red-500 animate-pulse" />
-              <span>by Rajeshwari</span>
+              <span>by Rajeshwari B</span>
             </div>
 
             <div className="text-gray-400 text-sm">
-              © {currentYear} Rajeshwari. All rights reserved.
+              © {currentYear} Rajeshwari B. All rights reserved.
             </div>
           </div>
         </div>
