@@ -40,12 +40,6 @@ const Contact = () => {
       href: 'mailto:Rajeshwari.pb.308@gmail.com'
     },
     {
-      icon: Phone,
-      label: 'Phone',
-      value: '+91 7338548091',
-      href: 'tel:+917338548091'
-    },
-    {
       icon: MapPin,
       label: 'Location',
       value: 'Mysuru KA',
