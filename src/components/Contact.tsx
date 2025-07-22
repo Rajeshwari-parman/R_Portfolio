@@ -36,13 +36,13 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'Rajeshwari.pb.308@gmail.com',
-      href: 'mailto:Rajeshwari.pb.308@gmail.com'
+      value: 'rajeshwari.pb.308@gmail.com',
+      href: 'mailto:rajeshwari.pb.308@gmail.com'
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Mysuru KA',
+      value: 'Mysuru, KA',
       href: '#'
     }
   ];
