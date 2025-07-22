@@ -42,7 +42,7 @@ const Hero = () => {
 
           {/* Main Content */}
           <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-slide-up">
-            Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 to-orange-300">Rajeshwari</span>
+            Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 to-orange-300">Rajeshwari B</span>
           </h1>
 
           <div className="text-2xl md:text-3xl mb-8 h-12 animate-slide-up delay-200">
@@ -74,7 +74,7 @@ const Hero = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-slide-up delay-800">
             <button className="px-8 py-4 bg-orange-500 hover:bg-orange-600 text-white font-semibold rounded-full transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl">
               <Download className="inline-block mr-2" size={20} />
-              <a href="https://drive.google.com/file/d/1dtVzbK9I3bkQNsc2N-hWl8JA4xsMxPCz/view?usp=drive_link">Download Resume</a>
+              <a href="https://drive.google.com/file/d/1dtVzbK9I3bkQNsc2N-hWl8JA4xsMxPCz/view?usp=drive_link">Resume</a>
             </button>
             <button
               onClick={scrollToAbout}
